@@ -1,3 +1,6 @@
 .idea
 node_modules
 typings
+
+# Remove compiled files. We won't need them in our git repo.
+app/*.js*
